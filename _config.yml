@@ -1,11 +1,11 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       Rafael Sandroni
+email:       rafaelsandroni@gmail.com
+author:      Rafael Sandroni
+description: "Personal Blog, AI research, engineering and startups."
 baseurl:     ""
-url:         "http://pixyll.com"
-date_format: "%b %-d, %Y"
+url:         "https://rafaelsandroni.github.io"
+date_format: "%d/%m/%Y"
 header_pages:
  - about.md
  - contact.html
