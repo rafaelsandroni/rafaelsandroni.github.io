@@ -3,7 +3,7 @@ layout:     post
 title:      Configuring git credential cache on linux
 date:       2018-06-09 12:32:18
 summary:    Use git without set yours credentials all time you push or pull, set git credential cache for password free.
-categories: jekyll pixyll
+categories: git linux 
 ---
 
 # Configuring git-credential-cache on linux
