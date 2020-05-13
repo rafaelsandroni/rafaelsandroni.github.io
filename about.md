@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Pixyll
+title: About Rafael Sandroni
 permalink: /about/
 tags: about
 ---
