@@ -3,7 +3,7 @@ layout: post
 title: Como escalar um pipeline de dados
 date: 2019-01-26 19:22
 summary: Pixyll is available to you under the MIT license.
-categories: jekyll pixyll
+categories: data
 ---
 
 The following is an overview to copying and sharing Pixyll.[^1]
