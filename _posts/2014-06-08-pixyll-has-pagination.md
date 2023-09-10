@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      Pixyll has Pagination
-date:       2014-06-08 11:21:29
+title:      Text Classification LLM in Production with AWS Lambda & ONNX
+date:       2023-06-08 11:21:29
 summary:    This is an empty post to illustrate the pagination component with Pixyll.
-categories: jekyll pixyll
+categories: LLM
 ---
 
 This is an empty post to illustrate the pagination component with Pixyll.
